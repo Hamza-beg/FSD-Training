@@ -1,0 +1,4 @@
+.header{
+    grid-column: start 1px;;
+    grid-column: end  5px;;
+}

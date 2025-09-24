@@ -1,0 +1,26 @@
+.parent{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    background-color: aqua;
+    border:1px solid black;
+
+}
+.child1{
+    height: 200px;
+    width: 300px;
+    background-color: brown;
+    border: 2px solid yellow;
+}
+.child2{
+    height: 200px;
+    width: 300px;
+    background-color:green;
+    border: 2px solid yellow;
+}
+.child3{
+    height: 200px;
+    width: 300px;
+    background-color: orange;
+    border: 2px solid yellow;
+}
